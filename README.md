@@ -2,7 +2,7 @@
 
 > A vue-carousel-card component development based on [vue-carousel-card](https://github.com/jekorx/vue-carousel-card) `@jekorx`)
 
-> vue 轮播卡片组件 在 vue-carousel-card@1.0.1 的基础上修改翻页按钮可操作轮播图的范围，如下
+> vue 轮播卡片组件 在 vue-carousel-card@1.0.1 的基础上修改翻页按钮可超出轮播图的范围，如下
 
 ![vue-carousel-card](screenshot/pic2.png)
 
