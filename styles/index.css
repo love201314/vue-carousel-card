@@ -1,3 +1,6 @@
+.carousel-root {
+  position: relative;
+}
 .carousel-card {
   overflow-x: hidden;
   position: relative
