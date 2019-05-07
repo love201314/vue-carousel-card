@@ -45,12 +45,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/jekorx/vue-carousel-card.git"
+    "url": "git+ssh://git@github.com/love201314/vue-carousel-card.git"
   },
   "bugs": {
-    "url": "https://github.com/jekorx/vue-carousel-card/issues"
+    "url": "https://github.com/love201314/vue-carousel-card/issues"
   },
-  "homepage": "https://github.com/jekorx/vue-carousel-card#readme",
+  "homepage": "https://github.com/love201314/vue-carousel-card#readme",
   "keywords": [
     "Vue",
     "vue-carousel-card",
