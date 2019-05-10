@@ -13,17 +13,6 @@
 ![vue-carousel-card](screenshot/pic0.png)
 ![vue-carousel-card](screenshot/pic1.png)
 
-**PS：** 组件中间图片默认显示的宽度为父容器的50%; 如果需要改变图片的宽度， 适应自己的项目，提供一个只改`css`的思路，`fork`一下作者的项目，更改`index.css`文件，作如下更改
-
-```css
-.carousel-card-item-card.is-active {
-  width: 776px; /* 改变宽度 */
-  z-index: 2;
-  left: -90px; /* 适当更改left值 */
-}
-```
-
-**水平有限，只能这样改了😭**
 
 ### 用法
 
@@ -127,3 +116,16 @@ h1 {
 | :---- | :---------------------------------------- | :----- | :----- | :----- |
 | name  | 幻灯片的名字，可用作 setActiveItem 的参数 | string | —      | —      |
 | label | 该幻灯片所对应指示器的文本                | string | —      | —      |
+
+
+**PS：** 组件中间图片默认显示的宽度为父容器的50%; 如果需要改变图片的宽度， 适应自己的项目，提供一个只改`css`的思路，`fork`一下作者的项目，更改`index.css`文件，作如下更改
+
+```css
+.carousel-card-item-card.is-active {
+  width: 776px; /* 改变宽度 */
+  z-index: 2;
+  left: -90px; /* 适当更改left值 */
+}
+```
+
+**水平有限，只能这样改了😭**
