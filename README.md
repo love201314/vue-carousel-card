@@ -118,7 +118,7 @@ h1 {
 | label | 该幻灯片所对应指示器的文本                | string | —      | —      |
 
 
-**PS：** 组件中间图片默认显示的宽度为父容器的50%; 如果需要改变图片的宽度， 适应自己的项目，提供一个只改`css`的思路，`fork`一下作者的项目，更改`index.css`文件，作如下更改
+**PS：** 组件中间图片默认显示的宽度为父容器的50%; 如果需要改变图片的宽度， 覆盖一下`carousel-card-item-card.is-active`的样式即可
 
 ```css
 .carousel-card-item-card.is-active {
